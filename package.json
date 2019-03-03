@@ -1,0 +1,14 @@
+{
+  "name": "webhook-reciever",
+  "version": "1.0.0",
+  "description": "A simple node webserver for handling incoming git webhooks.",
+  "main": "reciever.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Stefan Fiedler <me@fiete.dev>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
